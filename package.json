@@ -1,0 +1,25 @@
+{
+  "name": "phaser3-retina",
+  "version": "0.0.1",
+  "description": "Demo on how to support different devicePixelRatio's in Phaser 3",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quinten/phaser3-retina.git"
+  },
+  "keywords": [
+    "phaser3",
+    "retina",
+    "game-development",
+    "javascript"
+  ],
+  "author": "Quinten Clause",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Quinten/phaser3-retina/issues"
+  },
+  "homepage": "https://github.com/Quinten/phaser3-retina#readme"
+}
