@@ -4,7 +4,8 @@
   "description": "Demo on how to support different devicePixelRatio's in Phaser 3",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --mode development"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,14 @@
   "bugs": {
     "url": "https://github.com/Quinten/phaser3-retina/issues"
   },
-  "homepage": "https://github.com/Quinten/phaser3-retina#readme"
+  "homepage": "https://github.com/Quinten/phaser3-retina#readme",
+  "dependencies": {
+    "phaser": "^3.9.0"
+  },
+  "devDependencies": {
+    "raw-loader": "^0.5.1",
+    "webpack": "^4.2.0",
+    "webpack-cli": "^2.0.12",
+    "webpack-dev-server": "^3.1.1"
+  }
 }
