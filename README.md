@@ -2,6 +2,8 @@
 
 Demo on how to support different devicePixelRatio's in Phaser 3
 
+Read more on the blogpost on https://supernapie.com/blog/support-retina-with-phaser-3
+
 ### Install dependencies
 
 ```
