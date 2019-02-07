@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/Quinten/phaser3-retina#readme",
   "dependencies": {
-    "phaser": "^3.9.0"
+    "phaser": "^3.16.1"
   },
   "devDependencies": {
     "raw-loader": "^0.5.1",
